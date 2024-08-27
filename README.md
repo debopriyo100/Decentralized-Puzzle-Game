@@ -56,6 +56,9 @@ PuzzleGameToken Contract Address: [0xBfB269691044E131E00358E757Ffe7a8c64f6120]
 For any questions, support, or contributions:
 
 Project Lead: [Debopriyo Chanda]
+
 Email: [debopriyo1704@gmail.com]
+
 GitHub: [github.com/debopriyo100]
+
 Feel free to reach out for inquiries or if you’d like to contribute to the project!

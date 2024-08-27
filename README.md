@@ -1,6 +1,8 @@
 ## Decentralized Puzzle Game
 
 ## Vision:
+![Screenshot 2024-08-27 173717](https://github.com/user-attachments/assets/187d1075-d613-417b-b96a-2dced2bf25e7)
+
 The Decentralized Puzzle Game is an innovative blockchain-based platform where players can solve puzzles and earn rewards in the form of ERC-20 tokens. Leveraging Ethereum smart contracts, the game ensures transparent and fair gameplay by securely managing puzzle solutions and reward distribution. Our goal is to create an engaging, tamper-proof puzzle game that combines entertainment with the benefits of blockchain technology.
 
 Flowchart:

@@ -40,8 +40,7 @@ The Decentralized Puzzle Game is an innovative blockchain-based platform where p
 
 ## Contract Addresses
 
-PuzzleGameToken Contract: [0x1234567890abcdef1234567890abcdef12345678]
-PuzzleGame Contract: [0xabcdef1234567890abcdef1234567890abcdef12]
+PuzzleGameToken Contract Address: [0xBfB269691044E131E00358E757Ffe7a8c64f6120]
 (Note: Replace these addresses with the actual deployed contract addresses.)
 
 

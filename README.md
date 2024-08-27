@@ -59,6 +59,8 @@ Project Lead: [Debopriyo Chanda]
 
 Email: [debopriyo1704@gmail.com]
 
+Linkedin: [www.linkedin.com/in/debopriyo-chanda-64a604295/]
+
 GitHub: [github.com/debopriyo100]
 
 Feel free to reach out for inquiries or if you’d like to contribute to the project!
